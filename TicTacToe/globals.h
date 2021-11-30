@@ -1,5 +1,5 @@
 //
-//  globals.h provided by Professor Tarek Abdelrahman
+//  File globals.h provided by Professor Tarek Abdelrahman of University of Toronto
 //
 
 #ifndef globals_h
